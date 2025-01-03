@@ -1,5 +1,5 @@
-# VorRec
-This repository contains a implementation of our "**Enhancing Recommendation with Tag Taxonomy Voronoi Diagram in Hyperbolic Space**".
+# VoRec
+This repository contains a implementation of our "**VoRec: Enhancing Recommendation with Voronoi Diagram in Hyperbolic Space**".
 
 ## Environment Setup
 1. torch 2.0.0
